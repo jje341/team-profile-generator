@@ -33,5 +33,6 @@ This application is a team profile generator that is created by command line pro
 
 ## Example of Team Created in HTML
 
+![image](https://user-images.githubusercontent.com/101363899/170913032-7bd29449-6593-4ac6-a6d7-dbca393d80eb.png)
 
 
